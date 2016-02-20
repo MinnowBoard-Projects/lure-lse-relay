@@ -6,3 +6,5 @@ Features
 Screw in Block terminals with Normally Closed and Normally open connections.   
 GPIOs are protected using Optocouplers.    
 Experimental header to connect an HC-06 type Bluetooth module to a UART port, to enable the control of the MinnowBoard with another Bluetooth enabled devices. 
+
+Design files created with Diptrace 2.4.0.2  
