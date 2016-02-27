@@ -1,0 +1,6 @@
+Revision History:  
+
+Rev 1.01 fixes:  
+Removed 2  90 degree angles in 2 traces in the bottom layer, changes reflected in the PCB design file.   
+In the top layer improved some of the traces entry points to the some pads of the relays.   
+Improved U5 header trace routing.   
